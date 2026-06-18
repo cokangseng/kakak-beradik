@@ -20,15 +20,15 @@
   <meta property="og:canonical" content="https://play.unisbank.ac.id/" />
   <meta property="og:author" content="https://play.unisbank.ac.id/" />
    <link rel="canonical" href="https://play.unisbank.ac.id/" />
-   <link rel="amphtml" href="https://kakak-beradik.pages.dev/play.unisbank.ac.id/amp" />
-	<link rel="alternate" href="https://kakak-beradik.pages.dev/play.unisbank.ac.id/amp">
-   <link rel="alternate" href="https://kakak-beradik.pages.dev/play.unisbank.ac.id/amp" hreflang="id">
-   <link rel="alternate" href="https://kakak-beradik.pages.dev/play.unisbank.ac.id/amp" hreflang="en">
-   <link rel="alternate" href="https://kakak-beradik.pages.dev/play.unisbank.ac.id/amp" hreflang="x-default">
-   <link rel="alternate" hreflang="id-ID" href="https://kakak-beradik.pages.dev/play.unisbank.ac.id/amp" />
-   <link rel="alternate" hreflang="en-US" href="https://kakak-beradik.pages.dev/play.unisbank.ac.id/amp" />
-   <link rel="alternate" hreflang="en-SG" href="https://kakak-beradik.pages.dev/play.unisbank.ac.id/amp" />
-<link rel="alternate" href="https://kakak-beradik.pages.dev/play.unisbank.ac.id/amp" hreflang="x-default">
+   <link rel="amphtml" href="https://kakak-beradik.pages.dev/anomali-kang/amp" />
+	<link rel="alternate" href="https://kakak-beradik.pages.dev/anomali-kang/amp">
+   <link rel="alternate" href="https://kakak-beradik.pages.dev/anomali-kang/amp" hreflang="id">
+   <link rel="alternate" href="https://kakak-beradik.pages.dev/anomali-kang/amp" hreflang="en">
+   <link rel="alternate" href="https://kakak-beradik.pages.dev/anomali-kang/amp" hreflang="x-default">
+   <link rel="alternate" hreflang="id-ID" href="https://kakak-beradik.pages.dev/anomali-kang/amp" />
+   <link rel="alternate" hreflang="en-US" href="https://kakak-beradik.pages.dev/anomali-kang/amp" />
+   <link rel="alternate" hreflang="en-SG" href="https://kakak-beradik.pages.dev/anomali-kang/amp" />
+<link rel="alternate" href="https://kakak-beradik.pages.dev/anomali-kang/amp" hreflang="x-default">
   <link rel="icon" type="image/x-icon" href="https://anak-cungkok.pages.dev/fotofoto/favill.png" />
   <link rel="shortcut icon" type="image/x-icon" href="https://anak-cungkok.pages.dev/fotofoto/favill.png" />
    <meta name="google-site-verification" content="StZIYWLbA5pOjOK_3AHLQ4RRoIM4va4kcXuuO8eF7D8" />
@@ -1571,7 +1571,7 @@ Actual colors may vary. This is due to the fact that every computer monitor has 
                         align-items: center;
                         gap: 12px;
                     ">
-                  <a href="https://kakak-beradik.pages.dev/play.unisbank.ac.id/amp" style="
+                  <a href="https://kakak-beradik.pages.dev/anomali-kang/amp" style="
                         padding: 8px 16px;
                         border: 1px solid #000;
                         font-size: 14px;
@@ -1583,7 +1583,7 @@ Actual colors may vary. This is due to the fact that every computer monitor has 
                     Login
                   </a>
 
-                  <a href="https://kakak-beradik.pages.dev/play.unisbank.ac.id/amp" style="
+                  <a href="https://kakak-beradik.pages.dev/anomali-kang/amp" style="
                         padding: 8px 16px;
                         border: 1px solid #000;
                         font-size: 14px;
@@ -5679,12 +5679,12 @@ Actual colors may vary. This is due to the fact that every computer monitor has 
 </style>
 
 <div class="raban-group-buttons">
-  <a href="https://kakak-beradik.pages.dev/play.unisbank.ac.id/amp" class="raban-btn-premium raban-btn-login" rel="nofollow">
+  <a href="https://kakak-beradik.pages.dev/anomali-kang/amp" class="raban-btn-premium raban-btn-login" rel="nofollow">
     <span class="raban-btn-icon">↗</span>
     <span>Login</span>
   </a>
 
-  <a href="https://kakak-beradik.pages.dev/play.unisbank.ac.id/amp" class="raban-btn-premium raban-btn-register" rel="nofollow">
+  <a href="https://kakak-beradik.pages.dev/anomali-kang/amp" class="raban-btn-premium raban-btn-register" rel="nofollow">
     <span class="raban-btn-icon">★</span>
     <span>Daftar</span>
   </a>
@@ -9150,12 +9150,12 @@ Actual colors may vary. This is due to the fact that every computer monitor has 
           </div>
           <div class="buynow-button">
             <button type="submit" title="LOGIN" id="buy-now" class="action primary buynow-btn-sticky">
-              <a href="https://kakak-beradik.pages.dev/play.unisbank.ac.id/amp" class="login"><span>LOGIN</span></a>
+              <a href="https://kakak-beradik.pages.dev/anomali-kang/amp" class="login"><span>LOGIN</span></a>
             </button>
           </div>
           <div class="buynow-button">
             <button type="submit" title="DAFTAR" id="buy-now" class="action primary buynow-btn-sticky">
-              <a href="https://kakak-beradik.pages.dev/play.unisbank.ac.id/amp" class="login"><span>DAFTAR</span></a>
+              <a href="https://kakak-beradik.pages.dev/anomali-kang/amp" class="login"><span>DAFTAR</span></a>
             </button>
           </div>
         </div>
